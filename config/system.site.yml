@@ -1,0 +1,14 @@
+uuid: 428594bd-64f5-4f9e-b3a6-76b6b09f1bee
+name: cjewell-drupalcon-seattle-2019
+mail: andrew+drupalcon-seattle-2019@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
